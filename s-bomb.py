@@ -87,7 +87,7 @@ def main():
         clear()
         Banner()
         liststart()
-        start = input(Fore.LIGHTCYAN_EX+"  C://S-BOMBER_> "+Fore.RED)
+        start = input(Fore.LIGHTCYAN_EX+"  C://S-BOMBE_> "+Fore.RED)
         if start == '1':
             try:
                 clear()
