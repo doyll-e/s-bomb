@@ -21,9 +21,9 @@ Thank you for your choice =)
   ## Install
   
 ```bash
-git clone 
-cd Superman
+git clone https://github.com/ariiann/s-bomb
+cd s-bomb
 pip3 install -r requirements.txt
-Run => Superman.py
+Run => s-bomb.py
 ```
 
