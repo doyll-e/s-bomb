@@ -21,7 +21,7 @@ Thank you for your choice =)
   ## Install
   
 ```bash
-git clone https://github.com/Deusnegro/Superman.git
+git clone 
 cd Superman
 pip3 install -r requirements.txt
 Run => Superman.py
