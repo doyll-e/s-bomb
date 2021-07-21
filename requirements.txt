@@ -1,0 +1,6 @@
+colorama
+requests
+os
+time
+platform
+sys
