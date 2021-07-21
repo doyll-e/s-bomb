@@ -49,7 +49,7 @@ def sms():
           
           print(Fore.GREEN+"pleas enter the number without 0 :) for back enter 3")
           
-          number = input("pleas enter the phone number => ")
+          number = input("[+]pleas enter the phone number => ")
           if number == 3:
             main()
           while True:
