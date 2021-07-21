@@ -3,7 +3,8 @@ s-bomb is a tool to harass your friends =) First enter your target number in the
 Thank you for your choice =) 
 
 
-![s-bomb](https://user-images.githubusercontent.com/87072183/126510692-9c1b6524-84fd-4fbe-a613-9753afc13ea9.png)
+![s-bomb](https://user-images.githubusercontent.com/87072183/126512169-2cb2c2c4-5654-4f1d-be93-c476eaebe448.png)
+
  
        
 
