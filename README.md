@@ -24,6 +24,6 @@ Thank you for your choice =)
 git clone https://github.com/ariiann/s-bomb
 cd s-bomb
 pip3 install -r requirements.txt
-Run => s-bomb.py
+Run =>python3 s-bomb.py
 ```
 
