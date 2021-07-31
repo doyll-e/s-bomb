@@ -23,7 +23,7 @@ Thank you for your choice =)
   ## Install
   
 ```bash
-git clone https://github.com/ariiann/s-bomb
+https://github.com/d0yle/s-bomb
 cd s-bomb
 pip3 install -r requirements.txt
 Run =>python3 s-bomb.py
